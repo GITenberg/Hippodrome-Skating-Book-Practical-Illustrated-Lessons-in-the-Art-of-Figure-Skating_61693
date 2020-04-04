@@ -1,0 +1,35 @@
+_repo: Hippodrome-Skating-Book-Practical-Illustrated-Lessons-in-the-Art-of-Figure-Skating_61693
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oelschlager, Charlotte
+    aliases:
+    - Hayward, Charlotte
+    - Charlotte (Charlotte Oelschlager)
+    - Oelschlägel, Charlotte
+    - Oelschlagel, Charlotte
+    birthdate: 1898
+    deathdate: 1984
+    gutenberg_agent_id: '51563'
+    url: http://www.gutenberg.org/2009/agents/51563
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Charlotte_Oelschl%C3%A4gel
+    - https://en.wikipedia.org/wiki/Charlotte_Oelschl%C3%A4gel
+description: ''
+gutenberg_issued: '2020-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61693'
+  lccn: '16011212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Figure skating -- Handbooks, manuals, etc.'
+- !lcc 'GV'
+- GITenberg
+title: 'Hippodrome Skating Book
+
+  Practical Illustrated Lessons in the Art of Figure Skating'
+url: http://www.gutenberg.org/ebooks/61693
